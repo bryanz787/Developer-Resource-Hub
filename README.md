@@ -1,6 +1,6 @@
 # Developer AI Resource Hub
 
-A comprehensive, community-driven compendium of AI tools, workflows,  and best practices for the development lifecycle.
+A growing, crowd-sourced compendium of AI tools, workflows,  and best practices for the development lifecycle.
 
 ## Quick start
 
