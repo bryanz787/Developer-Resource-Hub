@@ -4,9 +4,9 @@ and best practices for the development lifecycle.
 
 ## Quick Start (Choose Your Path)
 
-**First Time Visitors** → [Repository Overview](/docs/overview.md)
+**Browse Skill and Prompt Templates** → [templates](/templates/)
 
-**Browse Skill and Prompt Templates** →
+**Browse Tools** → [tools](/tools/)
 
 ## What's Inside
 

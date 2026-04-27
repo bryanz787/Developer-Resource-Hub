@@ -29,6 +29,14 @@ assignees: ''
 [ ] Subscription ($X/month)
 [ ] Enterprise
 
+## Compatability
+[ ] Claude / Claude Code
+[ ] Cursor
+[ ] Gemini / Antigravity
+[ ] OpenAI Codex
+[ ] OpenCode 
+[ ] Copilot CLI
+
 ## Your Experience
 Have you used it? For how long?
 
