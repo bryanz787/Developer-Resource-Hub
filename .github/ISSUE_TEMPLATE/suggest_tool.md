@@ -6,8 +6,9 @@ labels: tool-suggestion
 assignees: ''
 ---
 
-## Tool Name
-[Name of the tool]
+# Tool Name
+---
+[Description of the tool]
 
 ## Category
 [ ] Text Generation (GPT, Claude, etc.)
